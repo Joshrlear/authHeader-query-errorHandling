@@ -1,0 +1,20 @@
+input::placeholder {
+    padding-left: 5px;
+}
+
+main {
+    width: 600px;
+}
+
+.repo-result {
+    margin-bottom: 70px;
+    padding: 10px;
+}
+
+.repo-result:nth-child(even) {
+    background-color: lightgrey;
+}
+
+button:hover {
+    cursor: pointer;
+}
